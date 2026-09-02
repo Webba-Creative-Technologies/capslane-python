@@ -89,4 +89,3 @@ class CapslaneClient:
             return json.loads(error.read().decode("utf-8"))
         except (json.JSONDecodeError, UnicodeDecodeError):
             return {"error": "request_failed", "message": "Capslane request failed"}
-
