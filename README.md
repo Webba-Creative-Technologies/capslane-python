@@ -2,8 +2,10 @@
 
 Official server-side client for the Capslane YouTube transcript API. It uses the Python standard library and adds no runtime dependency.
 
+The source release is installable directly from GitHub while PyPI publication is pending.
+
 ```bash
-pip install capslane
+pip install git+https://github.com/WebbaLuca/capslane-python.git@v0.1.0
 ```
 
 ```python
