@@ -21,7 +21,7 @@ classifiers = [
 
 [project.urls]
 Documentation = "https://capslane.com/docs"
-Repository = "https://github.com/WebbaLuca/capslane-python"
+Repository = "https://github.com/Webba-Creative-Technologies/capslane-python"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/capslane"]

@@ -92,7 +92,7 @@ Use Capslane from a trusted server. Do not expose API keys in browser code, publ
 - [Documentation](https://capslane.com/docs)
 - [API reference](https://capslane.com/api-reference)
 - [Dashboard](https://capslane.com/dashboard)
-- [GitHub](https://github.com/WebbaLuca/capslane-python)
+- [GitHub](https://github.com/Webba-Creative-Technologies/capslane-python)
 
 ## License
 
