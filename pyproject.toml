@@ -4,12 +4,12 @@ build-backend = "hatchling.build"
 
 [project]
 name = "capslane"
-version = "0.1.0"
+version = "0.1.1"
 description = "Python client for retrieving YouTube transcripts through the Capslane API."
 readme = "README.md"
 requires-python = ">=3.10"
 license = "MIT"
-authors = [{ name = "Webba Creative Technologies", email = "luca.deguin@webba-creative.com" }]
+authors = [{ name = "Webba Creative Technologies", email = "luca.deguin@webba-creative.fr" }]
 keywords = ["youtube", "transcript", "captions", "video-to-text", "api"]
 classifiers = [
   "Programming Language :: Python :: 3",
